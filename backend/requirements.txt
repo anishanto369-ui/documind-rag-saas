@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+llama-index
+llama-index-llms-groq
+llama-index-vector-stores-pinecone
+pinecone-client
+python-multipart
+python-dotenv
+pypdf
